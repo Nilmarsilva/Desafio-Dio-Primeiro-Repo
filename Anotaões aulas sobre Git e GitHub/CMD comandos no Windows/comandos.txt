@@ -1,0 +1,34 @@
+Comandos basicos do cmd no windows 
+
+Criar uma pasta:
+
+​	**mkdir**
+
+Lista as pastas de determinado local:
+
+​	**dir**
+
+Navegar/entra em determinado local/pasta:
+
+​	**cd / "inserir o nome do local"**
+
+Volta no terminal/pasta:
+
+​	**cd ..**
+
+Comando par ver algo escrito na tela:
+
+​	**echo "digite o texto"**
+
+Comando para criar um arquivo dentro da pasta:
+
+​	**echo (nome da pasta) >**
+
+Comando para deletar arquivo:
+
+​	**del**
+
+Comando para deletar toda a pasta:
+
+​	**rmdir (nome da pasta) /S /Q**
+

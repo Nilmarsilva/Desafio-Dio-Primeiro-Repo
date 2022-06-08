@@ -1,0 +1,105 @@
+### Mostra criptografia de SHA1
+
+	##### openssl sha1 (nome/arquivo/pasta) 
+
+esse comando vai mostra na tela a cripotografia de 40 caracteres do arquivo escolhido 
+
+#### Git formado por:
+
+```
+Objetos fundamentais (blobs) - blocos
+echo 'conteudo'  l git hash-object --stdin
+
+echo -e 'blob /0conteudo' l openssl sha1
+```
+
+todo essa estrutura mostra a chave de 40 caracteres criado pelo git 
+
+Objetos fundamentais (tree) - arvores
+Objetos fundamentais (Commit) - junta tudo blob e true
+
+Chave SSH 
+uma forma segura e criptografada de transmitir arquivos em pc e servidores.
+
+##Inicianado o git e criando um commit
+
+Criando repositorio 
+
+​	**mkdir**
+
+
+
+Inicializar o repositorio criado
+
+​	**git init**
+
+
+
+Mostra pasta oculta do Git 
+
+​	**ls -a**
+
+
+
+Configura o Git pela primeira vez para sincronizar com o GitHub
+
+Primeiro configuração global de email:
+
+​	**git config --global  user.email "add novo email"**
+
+Para remove o email criado:
+
+​	**git config --global --unset user.email "deleta email"**
+
+Primeiro configuração global de usuario:
+
+​	**git config --global user.name "add novo usuario"**
+
+Para remove o usuario criado:
+
+​	**git config --global --unset user.name "deleta usuario"**
+
+
+
+Para verificar o status:
+
+​	**git status**
+
+Podemos também inserir links de web direto no cmd do Git
+
+Para inserir link:
+
+​	**git  remote add origin "digite/cole o link dentro"**
+
+Para ver o links inseridos no repositorio:
+
+​	**git remote -v**
+
+##Deposi de tudas as edições feitas precisamos fazer o commit para damos push (empurar ou subir o arquivo para o nuvem do GitHub) no arquivo.
+
+
+
+Realizar o comando de Commit do arquivo junto com descrião entre ""
+
+​	**git commit -m "digite a messagem"**
+
+Subir o arquivo após o commit:
+
+​	**git push origin master/main**
+
+Por padrão agora o Git usar o main mas pode ser que o master ainda funcione.
+
+Podemos também clona/ baixar o repositorio do GitHub para o nosso pc.
+
+​	**git clone "inserir a chave ssh ou html"**
+
+
+
+
+
+
+
+
+
+
+
