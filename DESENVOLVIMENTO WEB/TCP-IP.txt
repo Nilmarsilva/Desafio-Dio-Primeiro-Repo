@@ -1,0 +1,107 @@
+# TCP/IP, PORTAS ,ROTEADORES, SWITCHES, MODEMS
+
+## TCP/IP
+
+- Protocolos de comunição entre computadores em rede
+  - Transmission Control Protocol - Protocolo de Controle de Transmissão
+  - Internet Protocol - Protocolo de Internet 
+- Modelo de camadas
+- 4 camadas para começa a transmissão 
+  1. Física (ex: placa de rede)
+  2. Rede (ex: IP)
+  3. Transporte (ex: TCP, UDP)
+  4. Aplicação (e: FTP SMTP, HTTP)
+
+## TCP x UDP
+
+- UDP
+
+  - Rápido
+  - Não confiável
+  - Carro do ovo = comparativo
+  - Livestream
+
+- TCP
+
+  - Voltado á conexão
+  - Handshake
+  - Integridade, ordem dos dados
+  - Aplicativo de mensagens de texto = referencia
+
+  Ambos os protocolos já estão configurados na maior parte dos computadores/model/servidores.
+
+  ## PORTA
+
+  Portas (do inglês : ports)
+
+  ​
+
+- As portas por onde os dados sairão ee chegaram
+
+- 20: FTP = APENAS ENVIO DE ARQUIVOS
+
+- 22: SSH = CONEÃO SEGURA 
+
+- 25: SMTP
+
+- 53: DNS
+
+- 80: HTTP = CONEXÃO SIMPLES
+
+- 443: HTTPS
+
+## MODEM
+
+- MODULATOR - DEMODULATOR 
+
+- HARDWARE QUE CONVERTE DADOS EM UM FORMATO QUE POSSA SER TRANSMITIDO.
+
+  ## ROTEADOR
+
+  - DISTIBUI PARA UM OU MAIS DISPOSITIVOS DE REDE 
+  - PODE FAZER A COMUNICAÇAO ENTRE REDES 
+  - PODE SER BURRO KKKKKK
+
+## SWITCH
+
+- DISTRIBUI INTERNET PARA UM OU MAIS DISPOSITIVOS DE REDE 
+
+- CRIADO PARA SER INTELIGENTE 
+
+  ​
+
+Excercicio: porta POP3 do gmail: é 995
+
+Porta SMTP do gmail: podem ser 25, 465 ou 587
+
+Porta do SMTP do MysQl  =  587
+
+Porta do POP3 do MysQl = 110 e a IMAP é 143
+
+## DADOS MÓVEIS
+
+### SMS
+
+- QUANTO CUSTA, PARA UMA OPERADORA DE TELEFONIA MOVEL, ENVIA UM SMS? ZERO CUSTOOOO
+- O CELULAR TROCA NATURALMENTE, ALGUNS BIST COM AS TORRES DE COMUNICAÇÃO 
+- VÃO JUNTO COM TRAFEGO DE COMUNIÇÃO JÁ EXISTENTE
+
+### MMS
+
+- TRANSMISSÃO DE MENSAGEM MULTIMÍDIA (ÁUDIO, VÍDEO) POR MEIO DE UMA ESPÉCIE DE CONEXÃO DE DADOS PRIMITIVA.
+
+## WIFI-FI
+
+SEGURANÇA 
+
+- WEP : CHAVES DE 64 BITS E DE 128 BITS 
+- WPA : CHAVE TROCADA PERIODICAMENTE
+- WPA2 (AES) (802.11I)
+  - +SEGURANÇA
+  - +PROCESSAMENTO
+
+
+
+## BLUETOOTH
+
+FAZ CONEXÃO PONTA A PONTA SEM DEPENDER DA INTERNET

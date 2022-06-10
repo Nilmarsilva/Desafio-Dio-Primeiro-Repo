@@ -1,0 +1,79 @@
+# TERMOS-CHAVE
+
+- #####download/upload	= 	baixar/subir arquivos
+
+- #####navegador     =  crome/mozilla/opera/explore
+
+- #####banda larga  = tipico especifico de conexão
+
+- #####cache = armazenamento de site no pc
+
+- #####crack = forma de piratear um software/crime
+
+- #####email = correio eletronico
+
+- #####emoticons/emoji = figurinhas animadas
+
+- #####gif/jpg/png  = formato de imagens
+
+- #####host  = especiel de servidor 
+
+- #####HTML = linguagem de marcação
+
+- #####HTTP = protocolo 
+
+- #####ícone  = figurar representativo 
+
+- #####link = é uma ligaçao 
+
+- #####login/logon = realizar acesso com usuario e senha
+
+- #####logout/logoff = sair do usuario e senha logado 
+
+- #####mp3 = formato de musica/pequeno
+
+- #####multimídia = o sistema permitir varias midias ao mesmo tempo
+
+- #####nick  =  apelido
+
+- #####online/offline = conectado/desconectado
+
+- #####pixel = junção de palavras 
+
+- #####spam = email enviados para varias usuarios
+
+- #####url  = é o endereço de um site/chamada de video/etc
+
+- #####virus  = todo software malicioso para roubar
+
+- #####backup = realizar armazenamento/ copia de segurança dos dados 
+
+- #####blog = diario/sites/post 
+
+- #####(cyber)bullying = acontece por forma digital/ameaça/etc 
+
+- #####3G/4G/5G = velocidades da internet movel 
+
+- #####cookies = pequenos registro das nossas atividades na web
+
+- #####firewall = parede para impedir a entrada no pc 
+
+- #####hacker = profissional malicioso 
+
+- #####IP = numero com endereço  
+
+- #####keylogger = uma especiel de virus/captura tudo que é digitado na marquina/pc 
+
+- #####phishing = golpe pra roubar/por email/ligação usando  
+
+- #####click bait = noticias são para clica
+
+- #####fake news = noticias falsas
+
+- #####podcast = formato de audio comentado 
+
+- #####vlog = diario em formato de video  
+
+- #####pop-up = janela que ser abrir no site com determinado configuraçao
+
+- #####youtuber = plataforma de videos
